@@ -1,0 +1,2 @@
+CTO Prompt: create a scientific calculator with pyqt5 and create unit tests
+An error occurred: 'Anthropic' object has no attribute 'completion'
